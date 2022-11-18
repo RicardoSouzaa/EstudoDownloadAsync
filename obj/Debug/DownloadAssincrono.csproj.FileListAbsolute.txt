@@ -1,0 +1,10 @@
+D:\Dev\Ricardo\Testes\DownloadAssincrono\obj\Debug\DownloadAssincrono.Form1.resources
+D:\Dev\Ricardo\Testes\DownloadAssincrono\obj\Debug\DownloadAssincrono.Properties.Resources.resources
+D:\Dev\Ricardo\Testes\DownloadAssincrono\obj\Debug\DownloadAssincrono.csproj.GenerateResource.cache
+D:\Dev\Ricardo\Testes\DownloadAssincrono\obj\Debug\DownloadAssincrono.csproj.CoreCompileInputs.cache
+D:\Dev\Ricardo\Testes\DownloadAssincrono\bin\Debug\DownloadAssincrono.exe.config
+D:\Dev\Ricardo\Testes\DownloadAssincrono\bin\Debug\DownloadAssincrono.exe
+D:\Dev\Ricardo\Testes\DownloadAssincrono\bin\Debug\DownloadAssincrono.pdb
+D:\Dev\Ricardo\Testes\DownloadAssincrono\obj\Debug\DownloadAssincrono.exe
+D:\Dev\Ricardo\Testes\DownloadAssincrono\obj\Debug\DownloadAssincrono.pdb
+D:\Dev\Ricardo\Testes\DownloadAssincrono\obj\Debug\DownloadAssincrono.csproj.AssemblyReference.cache
